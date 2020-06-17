@@ -1,6 +1,6 @@
 # BLA BLA Edited from Github UI
 
-"financeEconomy" = ("Pselected" * 0.001 * "quantity" * "tariff" - "Pother" * 0.001 * "quantity" * "tariff") * "workingHoursInYear"
+$$"financeEconomy" = ("Pselected" * 0.001 * "quantity" * "tariff" - "Pother" * 0.001 * "quantity" * "tariff") * "workingHoursInYear"$$
 
 [](/data-set/PROZORRO-QuestionGroups.csv?r=1,2,4-6 "Question Groups")
 [](/data-set/category.schema.json)
